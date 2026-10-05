@@ -1,31 +1,31 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "mediafireUrl": "https://www.mediafire.com/file/ymyv8m9w3d1rbju/app-release.apk/file",
+  "versionCode": 6,
+  "versionName": "1.5.0",
+  "mediafireUrl": "https://github.com/abw3laa/daftar_al_hisab/releases/download/V1.5.0/app-release.apk",
   "changelog": {
     "ar": [
-      "تقويم شهري لعرض أيام العمل وحالتها وملاحظاتها",
-      "إمكانية تعديل وحذف اليوميات والمدفوعات مع تأكيد قبل الحذف",
-      "حساب أدق يدعم نصف اليوم والساعات الإضافية والخصومات",
-      "تصدير كشف حساب PDF بخط عربي مضمن وشعار التطبيق",
-      "ثيم وواجهات أحدث وتجربة استخدام محسنة",
-      "شاشة ما الجديد عند أول تشغيل وبعد كل تحديث"
+      "تحسين شاشات المحاسبة وكشف حساب العامل.",
+      "إضافة دورات الرواتب الشهرية مع إمكانية إغلاق وفتح الفترة المحاسبية.",
+      "تحسين سجل الحركات والحسابات والتقارير.",
+      "تحسين النسخ الاحتياطي والاستعادة والمزامنة السحابية.",
+      "تحسينات عامة على التصميم وتجربة الاستخدام.",
+      "تحسينات في الاستقرار والأداء."
     ],
     "en": [
-      "Monthly calendar for work days, status, and notes",
-      "Edit and delete journal entries and payments with confirmation",
-      "More accurate calculations with half-days, overtime, and deductions",
-      "PDF account statements with an embedded Arabic font and app logo",
-      "Refreshed theme and improved user experience",
-      "What's new screen on first launch and after every update"
+      "Improved accounting screens and worker account statements.",
+      "Added monthly payroll periods with the ability to close and reopen an accounting period.",
+      "Improved transaction history, accounts, and reports.",
+      "Improved backup, restore, and cloud synchronization.",
+      "General design and user experience improvements.",
+      "Improved stability and performance."
     ],
     "tr": [
-      "Çalışma günlerini, durumunu ve notlarını gösteren aylık takvim",
-      "Onaylı günlük ve ödeme düzenleme/silme işlemleri",
-      "Yarım gün, fazla mesai ve kesintilerle daha doğru hesaplama",
-      "Gömülü Arapça yazı tipi ve uygulama logosuyla PDF ekstreleri",
-      "Yenilenen tema ve geliştirilmiş kullanıcı deneyimi",
-      "İlk açılışta ve her güncellemeden sonra yenilikler ekranı"
+      "Muhasebe ekranları ve çalışan hesap ekstreleri iyileştirildi.",
+      "Muhasebe dönemini kapatma ve yeniden açma özellikleriyle aylık maaş dönemleri eklendi.",
+      "Hareket geçmişi, hesaplar ve raporlar iyileştirildi.",
+      "Yedekleme, geri yükleme ve bulut senkronizasyonu iyileştirildi.",
+      "Genel tasarım ve kullanıcı deneyimi iyileştirildi.",
+      "Kararlılık ve performans iyileştirildi."
     ]
   }
 }
