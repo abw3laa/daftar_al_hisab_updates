@@ -1,34 +1,22 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6.0",
+  "versionCode": 2007,
+  "versionName": "1.6.1",
   "mediafireUrl": "https://www.mediafire.com/file/w66cbibk7froh04/daftar+al+hisab.apk/file",
   "changelog": {
     "ar": [
-      "واجهة حديثة ومحسّنة لإدارة الحسابات.",
-      "تحسين عرض الأرصدة والحسابات وتفاصيل الحساب.",
-      "إضافة كشف حساب PDF احترافي قابل للمشاركة.",
-      "إضافة إيصالات PDF للدفعات.",
-      "تحسين تنسيق كشف الحساب للغة العربية.",
-      "إضافة التحقق التلقائي من توفر التحديثات.",
-      "تحسين الأداء والاستقرار وتجربة الاستخدام."
+      "إصلاح نظام التحقق من توفر التحديثات.",
+      "توحيد ترقيم الإصدار والبناء لضمان اكتشاف التحديثات القديمة والجديدة.",
+      "تحسينات في الاستقرار وتجربة الاستخدام."
     ],
     "en": [
-      "Modernized and improved account management interface.",
-      "Improved account balances, account lists, and account details.",
-      "Added a professional shareable PDF account statement.",
-      "Added PDF payment receipts.",
-      "Improved Arabic account statement formatting.",
-      "Added automatic update availability checking.",
-      "Improved performance, stability, and user experience."
+      "Fixed automatic update version detection.",
+      "Unified version and build numbering so older installations can detect newer releases.",
+      "Stability and user experience improvements."
     ],
     "tr": [
-      "Hesap yönetimi için modern ve geliştirilmiş arayüz.",
-      "Bakiyeler, hesap listeleri ve hesap detayları iyileştirildi.",
-      "Paylaşılabilir profesyonel PDF hesap ekstresi eklendi.",
-      "PDF ödeme makbuzları eklendi.",
-      "Arapça hesap ekstresi biçimlendirmesi iyileştirildi.",
-      "Otomatik güncelleme kontrolü eklendi.",
-      "Performans, kararlılık ve kullanıcı deneyimi iyileştirildi."
+      "Otomatik güncelleme sürüm algılama sistemi düzeltildi.",
+      "Eski kurulumların yeni sürümleri algılayabilmesi için sürüm ve derleme numaralandırması birleştirildi.",
+      "Kararlılık ve kullanıcı deneyimi iyileştirmeleri."
     ]
   }
 }
