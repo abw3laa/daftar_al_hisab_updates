@@ -1,31 +1,34 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5.0",
-  "mediafireUrl": "https://github.com/abw3laa/daftar_al_hisab/releases/download/V1.5.0/app-release.apk",
+  "versionCode": 7,
+  "versionName": "1.6.0",
+  "mediafireUrl": "https://www.mediafire.com/file/w66cbibk7froh04/daftar+al+hisab.apk/file",
   "changelog": {
     "ar": [
-      "تحسين شاشات المحاسبة وكشف حساب العامل.",
-      "إضافة دورات الرواتب الشهرية مع إمكانية إغلاق وفتح الفترة المحاسبية.",
-      "تحسين سجل الحركات والحسابات والتقارير.",
-      "تحسين النسخ الاحتياطي والاستعادة والمزامنة السحابية.",
-      "تحسينات عامة على التصميم وتجربة الاستخدام.",
-      "تحسينات في الاستقرار والأداء."
+      "واجهة حديثة ومحسّنة لإدارة الحسابات.",
+      "تحسين عرض الأرصدة والحسابات وتفاصيل الحساب.",
+      "إضافة كشف حساب PDF احترافي قابل للمشاركة.",
+      "إضافة إيصالات PDF للدفعات.",
+      "تحسين تنسيق كشف الحساب للغة العربية.",
+      "إضافة التحقق التلقائي من توفر التحديثات.",
+      "تحسين الأداء والاستقرار وتجربة الاستخدام."
     ],
     "en": [
-      "Improved accounting screens and worker account statements.",
-      "Added monthly payroll periods with the ability to close and reopen an accounting period.",
-      "Improved transaction history, accounts, and reports.",
-      "Improved backup, restore, and cloud synchronization.",
-      "General design and user experience improvements.",
-      "Improved stability and performance."
+      "Modernized and improved account management interface.",
+      "Improved account balances, account lists, and account details.",
+      "Added a professional shareable PDF account statement.",
+      "Added PDF payment receipts.",
+      "Improved Arabic account statement formatting.",
+      "Added automatic update availability checking.",
+      "Improved performance, stability, and user experience."
     ],
     "tr": [
-      "Muhasebe ekranları ve çalışan hesap ekstreleri iyileştirildi.",
-      "Muhasebe dönemini kapatma ve yeniden açma özellikleriyle aylık maaş dönemleri eklendi.",
-      "Hareket geçmişi, hesaplar ve raporlar iyileştirildi.",
-      "Yedekleme, geri yükleme ve bulut senkronizasyonu iyileştirildi.",
-      "Genel tasarım ve kullanıcı deneyimi iyileştirildi.",
-      "Kararlılık ve performans iyileştirildi."
+      "Hesap yönetimi için modern ve geliştirilmiş arayüz.",
+      "Bakiyeler, hesap listeleri ve hesap detayları iyileştirildi.",
+      "Paylaşılabilir profesyonel PDF hesap ekstresi eklendi.",
+      "PDF ödeme makbuzları eklendi.",
+      "Arapça hesap ekstresi biçimlendirmesi iyileştirildi.",
+      "Otomatik güncelleme kontrolü eklendi.",
+      "Performans, kararlılık ve kullanıcı deneyimi iyileştirildi."
     ]
   }
 }
